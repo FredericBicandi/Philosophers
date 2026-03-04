@@ -1,4 +1,4 @@
-# philosophers
+# Philosophers
 
 <p align="center">
   <img src="https://github.com/FreddyBicandy50/FreddyBicandy50/blob/main/42_badges/philosopherse.png" alt="philosophers 42 project badge"/>
